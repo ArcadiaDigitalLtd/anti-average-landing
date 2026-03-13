@@ -13,7 +13,6 @@ export default $config({
       path: "site",
       domain: {
         name: "antiaverage.studio",
-        aliases: ["www.antiaverage.studio"],
         dns: sst.aws.dns(),
       },
     });
