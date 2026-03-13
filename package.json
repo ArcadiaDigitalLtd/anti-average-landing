@@ -1,0 +1,7 @@
+{
+  "name": "anti-average",
+  "private": true,
+  "devDependencies": {
+    "sst": "^3"
+  }
+}
